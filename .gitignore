@@ -4,3 +4,9 @@ Gemfile.bak
 .bundle
 .vagrant
 .mvn
+vendor
+lib/**/*.jar
+
+.DS_Store
+*.swp
+*.log
